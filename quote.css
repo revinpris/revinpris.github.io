@@ -1,0 +1,27 @@
+.wrapper {
+  margin: 0 auto;
+  width: 90%;
+}
+
+blockquote {
+  background: white;
+  padding: 20px 30px 20px 30px;
+  margin: 50px auto;
+  width: auto;
+  max-width: 600px;
+  font-family: 'nyt-cheltenham';
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.shadow {
+  border: solid 2px #303542;
+  box-shadow: 15px 15px 0 0 #303542;
+}
+
+.rule {
+  position: relative;
+  left: 7px;
+  background: #ccccff;
+  box-shadow: -2px 0 0 black, -4px 0 0 #ccccff, -7px 0 0 black;
+}
